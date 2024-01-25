@@ -132,4 +132,5 @@ section {
 /* components */
 .cta {
     background-image: url(./assets/cta-bg.jpg);
+    background-size: cover;
 }
