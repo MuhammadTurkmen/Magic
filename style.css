@@ -124,5 +124,7 @@ section {
 
 
 @media (min-width: 40em) {
-    
+    section {
+        padding: 8.125rem 0;
+    }
 }
