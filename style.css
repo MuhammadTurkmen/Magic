@@ -58,6 +58,7 @@ img {
 .split {
     display: flex;
     flex-direction: column;
+    gap: var(--spacer);
 }
 
 @media (min-width: 40rem) {
