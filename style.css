@@ -42,7 +42,9 @@ h1 {
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
+    letter-spacing: 0.1rem;
     font-weight: 700;
+    font-size: 1.125rem;
     padding: 0.5em 1.5em;
     color: inherit;
     background-color: #59e89c;
