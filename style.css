@@ -139,6 +139,7 @@ section {
     content: '';
     display: block;
     width: 5rem;
+    height: 5rem;
 }
 
 .cta {
