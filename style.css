@@ -55,6 +55,10 @@ img {
     margin: 0 auto;
 }
 
+.split {
+    display: flex;
+}
+
 .bg-dark {
     color: var(--clr-neutral-100);
     background-color: var(--clr-neutral-900);
