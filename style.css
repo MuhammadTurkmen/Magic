@@ -81,3 +81,7 @@ h1 span {
 }
 
 /* general layout */
+
+section {
+    padding: 4.125rem 0;
+}
