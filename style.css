@@ -2,8 +2,17 @@
 font-family: 'PT Sans', sans-serif; 
 */
 
+
+/* reset */
+
 *,
 *::before,
 *::after {
     box-sizing: border-box;
+}
+
+/* general styling */
+
+body {
+    font-family: 'PT Sans', sans-serif; 
 }
