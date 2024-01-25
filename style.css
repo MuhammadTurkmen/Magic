@@ -51,6 +51,7 @@ img {
 
 .container {
     padding: 0 var(--spacer);
+    max-width: 70rem;
 }
 
 /* general styling */
