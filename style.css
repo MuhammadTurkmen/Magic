@@ -57,6 +57,7 @@ img {
 
 .split {
     display: flex;
+    flex-direction: column;
 }
 
 .bg-dark {
