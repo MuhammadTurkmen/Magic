@@ -121,3 +121,8 @@ h1 span {
 section {
     padding: 4.125rem 0;
 }
+
+
+@media (min-width: 40em) {
+    
+}
