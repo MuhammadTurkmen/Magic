@@ -123,7 +123,7 @@ section {
 }
 
 
-@media (min-width: 40em) {
+@media (min-width: 40rem) {
     section {
         padding: 8.125rem 0;
     }
