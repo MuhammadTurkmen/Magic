@@ -46,7 +46,7 @@ img {
 
 /* Utility classes */
 .flow-content > * + * {
-    margin-top: 1.25rem;
+    margin-top: var(--flow-space, --spacer);
 }
 
 .container {
@@ -71,7 +71,7 @@ img {
     }
 
     .split > * + * {
-        margin: 0 0 0 var(--spacer) * 3 ;
+        margin: 0 0 0 var(--spacer) ;
 
     }
 }
