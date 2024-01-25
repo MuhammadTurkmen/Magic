@@ -140,6 +140,7 @@ section {
     display: block;
     width: 5rem;
     height: 5rem;
+    background-color: var(--clr-accent-400);
 }
 
 .cta {
