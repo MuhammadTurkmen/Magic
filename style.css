@@ -18,3 +18,7 @@ body {
     font-size: 1.25rem;
     font-weight: 400;
 }
+
+.hero {
+    background-image: url(./assets/hero.jpg);
+}
