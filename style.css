@@ -60,6 +60,12 @@ img {
     flex-direction: column;
 }
 
+@media (min-width: 40rem) {
+    .split {
+        flex-direction: row;
+    }
+}
+
 .bg-dark {
     color: var(--clr-neutral-100);
     background-color: var(--clr-neutral-900);
