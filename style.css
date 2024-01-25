@@ -142,6 +142,7 @@ section {
     height: 5rem;
     background-color: var(--clr-accent-400);
     position: absolute;
+    z-index: -1;
     transform: translate(-.5rem, -.5rem);
 }
 
