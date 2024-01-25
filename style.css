@@ -138,6 +138,7 @@ section {
 .join-now li::before {
     content: '';
     display: block;
+    width: 5rem;
 }
 
 .cta {
