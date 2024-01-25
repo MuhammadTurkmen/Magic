@@ -46,7 +46,7 @@ img {
 
 /* Utility classes */
 .flow-content > * + * {
-    margin-top: var(--flow-space, --spacer);
+    margin-top: var(--flow-space, var(--spacer));
 }
 
 .container {
@@ -147,6 +147,7 @@ section {
 }
 
 .cta {
+    --flow-space: 3rem;
     background-image: url(./assets/cta-bg.jpg);
     background-size: cover;
     text-align: center;
