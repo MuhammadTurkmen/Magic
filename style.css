@@ -150,7 +150,7 @@ section {
     --flow-space: 3rem;
 }
  
-.cta {
+.cta { 
     --flow-space: 3rem;
     background-image: url(./assets/cta-bg.jpg);
     background-size: cover;
