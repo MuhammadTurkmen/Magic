@@ -38,6 +38,9 @@ h1 {
     font-weight: 400;
 }
 
+.btn {
+    display: inline-block;
+}
 
 /* hero section */
 
