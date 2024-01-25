@@ -1,5 +1,6 @@
 /* Custom properties */
 
+
 :root {
     --spacer: 1rem;
   
@@ -16,59 +17,57 @@
     --fw-400: 400;
   
     --box-shadow: 0 0.25em 1.5em rgba(0, 0, 0, 0.15);
-  }
-  
-  /* reset */
-  
-  *,
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
-  
-  h1,
-  h2,
-  h3,
-  p {
-    margin: 0;
-  }
+}
 
-  ul[class],
-  ol[class] {
+/* reset */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+ul[class],
+ol[class] {
     list-style: none;
     padding: 0;
 }
 
-  img {
+img {
     max-width: 100%;
     display: block;
     height: auto;
-  }
-  
-  /* Utility classes */
-  .flow-content > * + * {
+}
+
+/* Utility classes */
+.flow-content > * + * {
     margin-top: 1.25rem;
-  }
-  
-  /* general styling */
-  
-  body {
+}
+
+/* general styling */
+
+body {
     font-family: var(--ff-primary);
     font-size: 1.25rem;
     font-weight: 400;
     color: var(--clr-neutral-900);
     margin: 0;
-  }
-  
-  h1 {
+}
+
+h1 {
     font-weight: 400;
-  }
-  
-  h1 span {
+}
+
+h1 span {
     font-weight: 700;
-  }
-  
-  .btn {
+}
+
+.btn {
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
@@ -79,5 +78,6 @@
     padding: 0.75em 1.5em;
     background-color: var(--clr-accent-400);
     color: var(--clr-neutral-900);
-  }
-  
+}
+
+/* general layout */
