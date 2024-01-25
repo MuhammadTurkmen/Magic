@@ -49,6 +49,10 @@ img {
     margin-top: 1.25rem;
 }
 
+.container {
+    padding: 0 var(--spacer);
+}
+
 /* general styling */
 
 body {
