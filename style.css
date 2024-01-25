@@ -41,6 +41,7 @@ h1 {
 .btn {
     display: inline-block;
     text-decoration: none;
+    padding: 0.5em 1.5em;
 }
 
 /* hero section */
