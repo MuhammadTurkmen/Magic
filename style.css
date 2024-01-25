@@ -23,4 +23,6 @@ body {
 .hero {
     background-image: url(./assets/hero.jpg);
     background-size: cover;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
 }
