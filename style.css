@@ -17,6 +17,7 @@ body {
     font-family: 'PT Sans', sans-serif; 
     font-size: 1.25rem;
     font-weight: 400;
+    margin: 0;
 }
 
 .hero {
