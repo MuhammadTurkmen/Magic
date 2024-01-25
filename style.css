@@ -33,6 +33,14 @@ body {
     margin: 0;
 }
 
+
+h1 {
+    font-weight: 400;
+}
+
+
+/* hero section */
+
 .hero {
     background-image: url(./assets/hero.jpg);
     background-size: cover;
