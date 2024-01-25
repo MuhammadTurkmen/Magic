@@ -52,6 +52,7 @@ img {
 .container {
     padding: 0 var(--spacer);
     max-width: 70rem;
+    margin: 0 auto;
 }
 
 /* general styling */
