@@ -58,12 +58,21 @@ img {
 .split {
     display: flex;
     flex-direction: column;
-    gap: var(--spacer);
+    /* gap: var(--spacer); */
+}
+
+.split > * + * {
+    margin: calc(var(--spacer) * 3) 0 0 0 ;
 }
 
 @media (min-width: 40rem) {
     .split {
         flex-direction: row;
+    }
+
+    .split > * + * {
+        margin: 0 0 0 var(--spacer) * 3 ;
+
     }
 }
 
