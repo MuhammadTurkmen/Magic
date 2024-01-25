@@ -133,7 +133,12 @@ section {
     }
 }
 
-/* components */
+/* individual section */
+
+.join-now li::before {
+    content: '';
+}
+
 .cta {
     background-image: url(./assets/cta-bg.jpg);
     background-size: cover;
