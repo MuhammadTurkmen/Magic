@@ -1,3 +1,9 @@
 /* Font used
 font-family: 'PT Sans', sans-serif; 
 */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
