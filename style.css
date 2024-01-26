@@ -96,7 +96,7 @@
   .bg-dark {
     color: var(--clr-neutral-100);
     background: var(--clr-neutral-900);
-  }
+  } 
   
   .text-accent {
     color: var(--clr-accent-400);
