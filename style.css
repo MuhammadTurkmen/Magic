@@ -67,11 +67,11 @@ img {
     /* gap: var(--spacer); */
 }
   
-  .split > * + * {
+.split > * + * {
     margin: calc(var(--spacer) * 3) 0 0 0;
-  }
+}
   
-  @media (min-width: 40em) {
+@media (min-width: 40em) {
     .split {
       flex-direction: row;
       justify-content: space-between;
@@ -84,7 +84,7 @@ img {
     .split > * + * {
       margin: 0 0 0 var(--spacer);
     }
-  }
+}
   
   .a-center {
     align-items: center;
