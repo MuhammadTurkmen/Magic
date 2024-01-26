@@ -45,10 +45,11 @@ img {
     display: block;
 }
   
-  /* Utility classes */
-  .flow-content > * + * {
+/* Utility classes */
+
+.flow-content > * + * {
     margin-top: var(--flow-space, var(--spacer));
-  }
+}
   
   .flow-content--large {
     --flow-space: 3rem;
