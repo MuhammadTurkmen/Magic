@@ -140,23 +140,23 @@ a {
     color: var(--clr-neutral-900);
 }
   
-  /* navigation */
+/* navigation */
   
-  header {
+header {
     padding: var(--spacer) 0;
-  } 
+} 
   
-  @media (min-width: 40em) {
+@media (min-width: 40em) {
     header {
       position: sticky;
       top: 0;  
       z-index: 1;  
     } 
-  } 
+} 
    
-  .logo {  
+.logo {  
     max-width: 3rem; 
-  }   
+}   
     
   .nav-list {
     display: flex; 
