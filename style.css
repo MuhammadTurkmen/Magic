@@ -51,21 +51,21 @@ img {
     margin-top: var(--flow-space, var(--spacer));
 }
   
-  .flow-content--large {
+.flow-content--large {
     --flow-space: 3rem;
-  }
+}
   
-  .container {
+.container {
     padding: 0 var(--spacer);
     max-width: 70rem;
     margin: 0 auto;
-  }
+}
   
-  .split {
+.split {
     display: flex;
     flex-direction: column;
     /* gap: var(--spacer); */
-  }
+}
   
   .split > * + * {
     margin: calc(var(--spacer) * 3) 0 0 0;
