@@ -199,7 +199,7 @@ section {
     }
 }
 
-.join-now {
+.join-now li {
     position: relative;
 }
   
@@ -211,7 +211,7 @@ section {
     background: var(--clr-accent-400);
     position: absolute; 
     z-index: -1;
-    
+    top: -0.5em;
 }
   
 .cta { 
