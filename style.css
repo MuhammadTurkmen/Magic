@@ -208,7 +208,7 @@
     transform: translate(-0.5rem, -0.5rem); 
   }
   
-  .cta {
+  .cta { 
     background-image: url(assets/cta-bg.jpg);
     background-size: cover;
     text-align: center;
