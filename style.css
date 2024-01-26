@@ -205,7 +205,7 @@
     background: var(--clr-accent-400);
     position: absolute; 
     z-index: -1;
-    transform: translate(-0.5rem, -0.5rem);
+    transform: translate(-0.5rem, -0.5rem); 
   }
   
   .cta {
