@@ -16,25 +16,25 @@
     --fw-400: 400;
   
     --box-shadow: 0 0.25em 1.5em rgba(0, 0, 0, 0.15);
-  }
+}
   
   /* reset */
   
-  *,
-  *::before,
-  *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
-  }
+}
   
-  h1,
-  h2,
-  h3,
-  p {
+h1,
+h2,
+h3,
+p {
     margin: 0;
-  }
+}
   
-  ul[class],
-  ol[class] {
+ul[class],
+ol[class] {
     list-style: none;
     padding: 0;
   }
@@ -197,6 +197,8 @@
       padding: 0;
     }
   }
+
+  .join-now  
   
   .join-now li::before {
     content: "";
