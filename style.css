@@ -75,7 +75,7 @@ img {
     }
 }
 
-.shadow {
+.shadow { 
     box-shadow: var(--box-shadow);
 }
 
