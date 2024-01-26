@@ -103,31 +103,31 @@ img {
     color: var(--clr-accent-400);
 }
    
-  /* general styling */
+/* general styling */
   
-  body {
+body {
     font-family: var(--ff-primary);
     font-size: 1.25rem;
     font-weight: 400;
     color: var(--clr-neutral-900);
     margin: 0;
-  }
+}
   
-  h1 { 
+h1 { 
     font-weight: 400;
-  }
+}
   
-  h1 span {
+h1 span {
     font-weight: 700;
-  }
+}
   
-  a {
+a {
     color: var(--clr-accent-500);
     text-decoration: none;
     font-weight: var(--fw-700);
-  }
+}
   
-  .btn {
+.btn {
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
@@ -138,7 +138,7 @@ img {
     padding: 0.75em 1.5em;
     background-color: var(--clr-accent-400);
     color: var(--clr-neutral-900);
-  }
+}
   
   /* navigation */
   
