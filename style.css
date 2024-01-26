@@ -158,7 +158,7 @@
   }   
     
   .nav-list {
-    display: flex;
+    display: flex; 
     justify-content: center;
     gap: 2em;
   }
