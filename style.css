@@ -86,22 +86,22 @@ img {
     }
 }
   
-  .a-center {
+.a-center {
     align-items: center;
-  }
+}
   
-  .shadow {
+.shadow {
     box-shadow: var(--box-shadow);
-  }
+}
   
-  .bg-dark {
+.bg-dark {
     color: var(--clr-neutral-100);
     background: var(--clr-neutral-900);
-  } 
+} 
   
-  .text-accent {
+.text-accent {
     color: var(--clr-accent-400);
-  }
+}
    
   /* general styling */
   
