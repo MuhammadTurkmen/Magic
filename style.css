@@ -137,6 +137,7 @@ a {
 }
 
 .section-title {
+    display: inline-block;
     font-size: var(--fs-300);
     text-transform: uppercase;
     letter-spacing: 0.1em;
