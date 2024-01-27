@@ -132,6 +132,10 @@ a {
     font-weight: var(--fw-700);
 }
   
+.page-heading {
+    font-weight: var(--fw-400);
+}
+
 .btn {
     display: inline-block;
     text-decoration: none;
