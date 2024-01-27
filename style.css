@@ -12,6 +12,12 @@
   
     --ff-primary: "PT Sans", sans-serif;
   
+    --fs-700: 2.25rem;
+    --fs-600: 1.5rem;
+    --fs-500: 1.25rem;
+    --fs-400: 1.125rem;
+    --fs-300: 0.9375rem;
+
     --fw-700: 700;
     --fw-400: 400;
   
@@ -111,6 +117,13 @@ body {
     font-weight: 400;
     color: var(--clr-neutral-900);
     margin: 0;
+}
+
+h1, 
+.h1,
+h2,
+.h2 {
+    font-size: var(--fs-700);
 }
   
 h1 { 
