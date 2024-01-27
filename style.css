@@ -136,6 +136,10 @@ a {
     font-weight: var(--fw-400);
 }
 
+.section-title {
+    
+}
+
 .btn {
     display: inline-block;
     text-decoration: none;
