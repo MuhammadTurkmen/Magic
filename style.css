@@ -138,6 +138,7 @@ a {
 
 .section-title {
     font-size: var(--fs-300);
+    background: #000;
 }
 
 .btn {
