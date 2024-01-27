@@ -119,8 +119,6 @@ body {
     margin: 0;
 }
 
-h1, 
-.h1,
 h2,
 .h2 {
     font-size: var(--fs-700);
