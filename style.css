@@ -117,6 +117,7 @@ body {
     font-weight: var(--fw-400);
     color: var(--clr-neutral-900);
     margin: 0;
+    line-height: 1.6;
 }
 
 h2,
