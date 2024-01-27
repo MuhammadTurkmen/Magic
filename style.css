@@ -142,6 +142,7 @@ a {
     letter-spacing: 0.1em;
     background: #000;
     color: red;
+    padding: 0.25em 0.5em;
 }
 
 .btn {
