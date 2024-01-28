@@ -134,6 +134,10 @@ img {
     color: var(--clr-accent-400);
 }
 
+.corner-square {
+    position: relative;
+}
+
 .corner-square::before {
     content: "";
     display: block;
