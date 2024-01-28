@@ -149,7 +149,7 @@ img {
     height: 5rem;
     background: var(--accent, var(--clr-accent-400));
     position: absolute; 
-    z-index: -1;
+    z-index: -1; 
     top: -0.5em;  
     left: -0.5em; 
 }
