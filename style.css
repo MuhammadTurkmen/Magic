@@ -278,4 +278,5 @@ section {
 
 .testimonial .name {
     font-weight: var(--fw-700);
+    margin-top: 4rem;
 }
