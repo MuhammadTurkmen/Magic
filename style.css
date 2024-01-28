@@ -114,6 +114,9 @@ img {
     background: var(--bg, purple);
     
 }
+.bg-dark {
+    --fg: var(var(--clr-neutral-100))
+}
 
 /* .bg-dark {
     color: var(--clr-neutral-100);
