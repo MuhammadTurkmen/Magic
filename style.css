@@ -111,6 +111,7 @@ img {
   
 [class*="bg-"] {
     color: var(--fg, red);
+    background: var(--bg, purple);
     
 }
 
