@@ -138,6 +138,10 @@ img {
     position: relative;
 }
 
+.corner-square:nth-of-type(2n) {
+    --accent: var(--clr-neutral-900)
+}
+
 .corner-square::before {
     content: "";
     display: block;
@@ -297,6 +301,6 @@ section {
     color: var(--accent);
 }
 
-.testimonial.bg-accent {
+/* .testimonial.bg-accent {
     --accent: var(--clr-neutral-900);
-}
+} */
