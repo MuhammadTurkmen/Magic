@@ -234,6 +234,10 @@ section {
   
 /* individual sections */
   
+.hero {
+    --gap: 3rem;
+}
+
 .hero img {
     transform: translateY(2em);
 }
