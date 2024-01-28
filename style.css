@@ -131,7 +131,7 @@ img {
 }  */
   
 .text-accent {
-    color: var(--clr-accent-400);
+    color: var(--accent, var(--clr-accent-400));
 }
 
 .corner-square {
