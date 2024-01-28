@@ -125,6 +125,10 @@ img {
     --accent: var(--clr-neutral-100);
 }
 
+.bg-light {
+    --fg: var(--clr-neutral-100)
+}
+
 /* .bg-dark {
     color: var(--clr-neutral-100);
     background: var(--clr-neutral-900);
