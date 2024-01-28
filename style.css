@@ -296,3 +296,7 @@ section {
     margin-top: 4rem;
     color: var(--accent);
 }
+
+.testimonial.bg-accent {
+    --accent: var(--clr-neutral-900);
+}
