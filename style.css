@@ -115,7 +115,7 @@ img {
     
 }
 .bg-dark {
-    --fg: var(var(--clr-neutral-100))
+    --fg: var(--clr-neutral-100)
 }
 
 /* .bg-dark {
