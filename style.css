@@ -126,7 +126,7 @@ img {
 }
 
 .bg-light {
-    --fg: var(--clr-neutral-100);
+    --fg: var(--clr-neutral-900);
     --bg: var(--clr-neutral-100);
     --accent: var(--clr-accent-400)
 }
