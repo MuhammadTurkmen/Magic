@@ -275,6 +275,10 @@ section {
     text-align: start;
     padding: calc(var(--spacer) * 2);
 }
+ 
+.testimonial > p:first-child {
+    font-style: italic;
+}
 
 .testimonial .name {
     font-weight: var(--fw-700);
