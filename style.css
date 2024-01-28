@@ -118,6 +118,10 @@ img {
     --fg: var(--clr-neutral-100);
     --bg: var(--clr-neutral-900);
 }
+.bg-accent {
+    --fg: var(--clr-neutral-100);
+    --bg: var(--clr-neutral-900);
+}
 
 /* .bg-dark {
     color: var(--clr-neutral-100);
