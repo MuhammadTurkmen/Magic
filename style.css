@@ -179,7 +179,7 @@ a {
     font-size: 1.125rem;
     color: inherit;
     padding: 0.75em 1.5em;
-    background-color: var(--clr-accent-400);
+    background-color: var(--accent, var(--clr-accent-400));
     color: var(--clr-neutral-900);
 }
   
