@@ -289,6 +289,10 @@ section {
 .cta.bg-accent {
     background-image: url(/assets/cta-bg-1.jpg);
 }
+
+.cta.bg-light {
+    background-image: url(/assets/cta-bg-2.jpg);
+}
   
 
 .testimonials {
