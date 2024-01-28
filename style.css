@@ -270,3 +270,7 @@ section {
 .testimonials {
     text-align: center;
 }
+
+.testimonial {
+    text-align: start;
+}
