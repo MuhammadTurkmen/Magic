@@ -134,7 +134,7 @@ img {
     color: var(--clr-accent-400);
 }
 
-.join-now li::before {
+.corner-square::before {
     content: "";
     display: block;
     width: 5rem;
