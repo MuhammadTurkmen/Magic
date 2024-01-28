@@ -167,8 +167,8 @@ a {
     font-size: var(--fs-300);
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    background: #000;
-    color: red;
+    background: var(--fg, var(--clr-neutral-900));
+    color: var(--accent, var(--clr-accent-400));
     padding: 0.25em 0.5em;
 }
 
