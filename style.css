@@ -275,3 +275,7 @@ section {
     text-align: start;
     padding: calc(var(--spacer) * 2);
 }
+
+.testimonial .name {
+    font-weight: var(--fw-700);
+}
