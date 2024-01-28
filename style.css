@@ -117,6 +117,7 @@ img {
 .bg-dark {
     --fg: var(--clr-neutral-100);
     --bg: var(--clr-neutral-900);
+    --accent: var(--clr-accent-400);
 }
 .bg-accent {
     --fg: var(--clr-neutral-900);
