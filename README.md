@@ -8,3 +8,6 @@
 
 ![image](https://github.com/MuhammadTurkmen/Magic/assets/142389953/cd210206-3177-4be6-bd2b-cf753d297228)
 
+![image](https://github.com/MuhammadTurkmen/Magic/assets/142389953/3d131ff4-09f8-426e-9e5d-e2f2790c1ab4)
+
+
