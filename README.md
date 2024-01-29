@@ -12,4 +12,5 @@
 
 ![image](https://github.com/MuhammadTurkmen/Magic/assets/142389953/a4662d94-d483-4ebd-b22a-744f70c8eb73)
 
+![image](https://github.com/MuhammadTurkmen/Magic/assets/142389953/dfee7e16-689e-4ea0-9f81-4ff84b053490)
 
